@@ -1,0 +1,7 @@
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacher\bin\Debug\WordTeacher.dll
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacher\bin\Debug\WordTeacher.pdb
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacher\bin\Debug\MySql.Data.dll
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacher\bin\Debug\MySql.Data.xml
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacher\obj\Debug\WordTeacher.csprojResolveAssemblyReference.cache
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacher\obj\Debug\WordTeacher.dll
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacher\obj\Debug\WordTeacher.pdb

@@ -1,0 +1,11 @@
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacherTests\obj\Debug\WordTeacherTests.csprojResolveAssemblyReference.cache
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacherTests\bin\Debug\WordTeacherTests.dll
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacherTests\bin\Debug\WordTeacherTests.pdb
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacherTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacherTests\bin\Debug\WordTeacher.dll
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacherTests\bin\Debug\MySql.Data.dll
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacherTests\bin\Debug\WordTeacher.pdb
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacherTests\bin\Debug\MySql.Data.xml
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacherTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacherTests\obj\Debug\WordTeacherTests.dll
+c:\users\k-f22\documents\visual studio 2015\Projects\WordTeacher\WordTeacherTests\obj\Debug\WordTeacherTests.pdb
